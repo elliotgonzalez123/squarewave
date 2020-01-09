@@ -1,4 +1,5 @@
 import React from 'react';
+//SYNTHS FROM TONE
 import Tone from 'tone';
 const TEST = () => {
   // UPDATE: there is a problem in chrome with starting audio context
